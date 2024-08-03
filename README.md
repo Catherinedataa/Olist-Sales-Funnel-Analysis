@@ -33,9 +33,9 @@ The dataset is divided into two major files:
 
 ## Insights
 1. **Offline Leads Dominance:**
-   - Offline leads generate significantly higher revenue compared to online leads,even though they have a low lead conversion rate compared to online leads.
+    Offline leads generate significantly higher revenue compared to online leads,even though they have a low lead conversion rate compared to online leads.
 2. **Segment-Specific Revenue: **
-- Construction, Tools, House & Garden remains an important revenue driver, contribute a majority total revenue.
+    Construction, Tools, House & Garden remains an important revenue driver, contribute a majority total revenue.
 
 3. **High-Value Lead Profiles:**
    The Shark profile exhibits the highest average deal size, indicating it is a high-value lead profile
@@ -45,7 +45,7 @@ The dataset is divided into two major files:
    Implement strategies to optimize the revenue gains from offline leads.
 
 2. **Target High-Revenue Segments:**
-   Focus marketing on the **Construction, Tools, House & Garden** segment, which generated maximum revenues.
+   Focus marketing on the Construction, Tools, House & Garden segment, which generated maximum revenues.
 
 3. **Optimize Lead Handling for 'Shark' Profile:**
    Develop specialized strategies and prioritizing efforts towards this lead profile could yield significant returns
