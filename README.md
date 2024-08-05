@@ -1,10 +1,7 @@
 # Olist Sales Funnel Analysis
 
-## Overview
- This project is designed to show an analysis of a marketing funnel dataset from the Olist Store, focusing on MQLs (Marketing Qualified Leads) and their journey to become closed deals. This dataset contains requests for contact between June 1, 2017, and June 1, 2018. The objective is to analyze the sales process to uncover insights and propose actionable recommendations to improve marketing and sales strategies.
-
 ## Business Question
-How can Olist increase the conversion rates and maximize revenues by improving marketing and sales across different channels and product categories?
+How can Olist Store optimize its sales funnel by leveraging insights from Marketing Qualified Leads (MQLs) and closed deals to enhance lead conversion rates and maximize revenue across different marketing channels and product categories?
 
 ## Description of the dataset
 The dataset is divided into two major files:
